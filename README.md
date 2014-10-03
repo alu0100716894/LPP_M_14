@@ -1,4 +1,4 @@
-# EQUIPO 14
+# LPP_M_14
 
 Práctica 2: Prueba trabajo en equipo
 
