@@ -1,1 +1,6 @@
 Trabajo en equipo con git
+
+¿Cuál es la diferencia entre compilador e interprete?
+
+Un programa compilado se puede ejecutar en cualquier ordenador sin necesidad de tener instalado nada, mientras que con un programa interpretado,
+siempre necesitaras tener instalado el interprete en el ordenador que se desea ejecutar.
