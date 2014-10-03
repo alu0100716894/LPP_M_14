@@ -1,1 +1,26 @@
 Trabajo en equipo con git
+
+¿Cuál es la diferencia entre compilador e interprete?
+Un programa compilado se puede ejecutar en cualquier ordenador sin necesidad de tener instalado nada, mientras que con un programa interpretado,
+siempre necesitaras tener instalado el interprete en el ordenador que se desea ejecutar.
+
+
+¿Qué permisos tiene el fichero helloWorld.sh?
+Solo tiene permisos de lectura para todo el mundo, excepto para el propietario, que tiene toda clase de permisos.
+¿Se pueden ejecutar directamente?
+Sí, mientras se tenga instalado bash.
+
+¿Qué permisos tiene el fichero helloWorld.rb?
+Solo tiene permisos de lectura para todo el mundo, excepto para el propietariom que tiene toda clase de permisos.
+¿Se puede ejecutar directamente?
+No, se tiene que tener instalado el interprete ruby.
+
+¿Cuál es la principal diferencia entre el contenido del fichero helloWord.sh y el helloWorld.rb?
+El fichero helloWorld.sh tiene dos lineas más, las dos primeras, luego tiene una función de salida de carro.
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+Esa línea provoca que sea la bash quien lea y ejecute el contenido de ese fichero.
+
+
+
+
+
